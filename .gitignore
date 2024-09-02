@@ -1,0 +1,22 @@
+# STS-specific files
+.classpath
+.project
+.settings/
+
+# Compiled class files and build directories
+bin/
+target/
+
+# Maven dependencies
+.m2/
+
+# Logs
+*.log
+
+# IDE-specific files (for other developers)
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
